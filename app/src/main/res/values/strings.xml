@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SystemInfo</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="date_picker_title">Date of crime:</string>
+</resources>
